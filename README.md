@@ -24,7 +24,7 @@ Soy una ingeniera apasionada por crear soluciones educativas y prácticas en la 
 - 📊 **Bases de Datos:** MongoDB Atlas, PostgreSQL  
 - 🧪 **Testing y DevOps:** Docker, GitHub Actions  
 - ⚙️ **Frontend:** React, HTML  
-- 🔐 **Seguridad:**JWT, OAuth2  
+- 🔐 **Seguridad:** JWT, OAuth2  
 - 📈 **Visualización de datos:** Power BI, Dashboards en la nube  
 - 🌐 **WordPress + LMS:** Tutor LMS
 
